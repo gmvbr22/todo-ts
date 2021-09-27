@@ -1,5 +1,5 @@
 {
-  "name": "microservice-ts",
+  "name": "todo-ts",
   "version": "1.0.0",
   "description": "",
   "main": "build/main.js",
@@ -20,15 +20,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmvbr/microservice-ts.git"
+    "url": "git+https://github.com/gmvbr/todo-ts.git"
   },
   "keywords": [],
   "author": "gmvbr <https://github.com/gmvbr>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gmvbr/microservice-ts/issues"
+    "url": "https://github.com/gmvbr/todo-ts/issues"
   },
-  "homepage": "https://github.com/gmvbr/microservice-ts#readme",
+  "homepage": "https://github.com/gmvbr/todo-ts#readme",
   "devDependencies": {
     "@types/chai": "^4.2.21",
     "@types/mocha": "^9.0.0",
